@@ -1,0 +1,14 @@
+LICENSE
+LICENSE.*
+LICENCE
+LICENCE.*
+*.log
+.git/
+.github/
+.vscode/
+.idea/
+*.test.js
+*.test.ts
+__tests__/
+coverage/
+.nyc_output/
