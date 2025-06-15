@@ -61,14 +61,14 @@ module.exports = [
 Create `prettier.config.js`:
 
 ```javascript
-module.exports = require('snovv-eslint-config/.prettierrc.js');
+module.exports = require('snovv-eslint-config/prettier.config.js');
 ```
 
 Or in `package.json`:
 
 ```json
 {
-  "prettier": "snovv-eslint-config/.prettierrc.js"
+  "prettier": "snovv-eslint-config/prettier.config.js"
 }
 ```
 
